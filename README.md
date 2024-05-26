@@ -44,7 +44,7 @@ The program outputs the top matching documents to the console and saves the resu
 Assuming the compiled executable is named `search`, you can run the program as follows:
 
 ```bash
-./search 10 keyword1 keyword2
+./search 100 edu news article
 ```
 
 This will return the top 10 matching documents containing the keywords "keyword1" and "keyword2".
