@@ -47,7 +47,3 @@ Assuming the compiled executable is named `search`, you can run the program as f
 ./search 100 edu news article
 ```
 
-This will return the top 10 matching documents containing the keywords "keyword1" and "keyword2".
-```
-
-You can save this content into a file named `README.md` in your project directory. This single file includes all the necessary information about your program.
